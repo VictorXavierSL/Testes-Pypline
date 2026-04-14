@@ -12,7 +12,7 @@ Funcionalidade: teste de Banco de dados
         |João da Silva    |2025-01-20          |joao@escola.com      | 123.456.789-00  |(11) 99999-9999      | Masculino            |Palmas-TO            |
         |João da Silva    |2045-01-20          |joao@escola.com      | 123.456.789-00  |(11) 99999-9999      | Masculino            |Palmas-TO            |
         |João da Silva    |2025-01-20          |joao@escola.com      | 123.458.789-00  |(11) 99999-9999      | Masculino            |Palmas-TO            |
-        |João da Silva    |0000-01-20          |joao@escola.com      | 000.000 000-00  |(11) 999999999       | Masculino            |Palmas-TO            |
+        |João da Silva    |0001-01-20          |joao@escola.com      | 000.000.000-00  |(11) 999999999       | Masculino            |Palmas-TO            |
         |João da Silva    |0099-01-20          |joao@escola.com      | 123.450.789-00  |(11) 99999-9999      | Masculino            |Palmas-TO            |
 
     Esquema do Cenário: Remover Alunos do Banco
